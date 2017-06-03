@@ -1,0 +1,6 @@
+c:\users\alquimerico\documents\visual studio 2015\Projects\Speed reader\Speed reader\bin\Debug\Speed reader.exe.config
+c:\users\alquimerico\documents\visual studio 2015\Projects\Speed reader\Speed reader\bin\Debug\Speed reader.exe
+c:\users\alquimerico\documents\visual studio 2015\Projects\Speed reader\Speed reader\bin\Debug\Speed reader.pdb
+c:\users\alquimerico\documents\visual studio 2015\Projects\Speed reader\Speed reader\obj\Debug\Speed reader.csprojResolveAssemblyReference.cache
+c:\users\alquimerico\documents\visual studio 2015\Projects\Speed reader\Speed reader\obj\Debug\Speed reader.exe
+c:\users\alquimerico\documents\visual studio 2015\Projects\Speed reader\Speed reader\obj\Debug\Speed reader.pdb
